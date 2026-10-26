@@ -1,0 +1,6 @@
+{
+  "name": "Al-Noor Attendance",
+  "description": "Student attendance, class management, and reporting system for Al Noor Roza Tul Ilm Public High School, Manki, Swabi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

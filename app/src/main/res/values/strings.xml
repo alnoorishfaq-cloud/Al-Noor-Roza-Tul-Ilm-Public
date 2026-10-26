@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Al-Noor Attendance</string>
+    <string name="school_name">Al Noor Roza Tul Ilm Public High School</string>
+    <string name="school_location">Manki, Swabi</string>
+    <string name="school_subtitle">Student attendance: take daily attendance and view reports.</string>
+    <string name="tab_attendance">Attendance</string>
+    <string name="tab_students">Students</string>
+    <string name="tab_reports">Reports</string>
+    <string name="tab_classes">Classes</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="leave">Leave</string>
+    <string name="mark_all_present">Mark All Present</string>
+    <string name="credit">Prepared by Muhammad Ishfaq\nPhone # 03149768207</string>
+</resources>
